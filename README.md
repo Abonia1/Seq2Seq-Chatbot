@@ -27,7 +27,7 @@ To run this chabtot you will need:
 `python chat.py`
 
 ## List of Hyperparameters
-<img src="https://github.com/Abonia1/Seq2Seq-Chatbot/tree/master/Images/Config.JPG" alt="alt text" width="700" height="500">
+<img src="https://github.com/Abonia1/Seq2Seq-Chatbot/blob/master/Images/Config.jpg" alt="alt text" width="700" height="500">
 
 
 
@@ -44,17 +44,17 @@ Config2:Model was able to train to `Accuracy of 63%` and `Loss of 18%` and after
 
 ### Accuracy
 Config1
-<img src="https://github.com/Abonia1/Seq2Seq-Chatbot/tree/master/Images/Accuracy1.JPG" alt="alt text" width="500" height="300">
+<img src="https://github.com/Abonia1/Seq2Seq-Chatbot/blob/master/Images/Accuracy1.jpg" alt="alt text" width="500" height="300">
 
 ### Loss
-<img src="https://github.com/Abonia1/Seq2Seq-Chatbot/tree/master/Images/Loss1.JPG" alt="alt text" width="500" height="300">
+<img src="https://github.com/Abonia1/Seq2Seq-Chatbot/blob/master/Images/Loss1.jpg" alt="alt text" width="500" height="300">
 
 Config2
 ### Accuracy
-<img src="https://github.com/Abonia1/Seq2Seq-Chatbot/tree/master/Images/Accuracy2.JPG" alt="alt text" width="500" height="300">
+<img src="https://github.com/Abonia1/Seq2Seq-Chatbot/blob/master/Images/Accuracy2.jpg" alt="alt text" width="500" height="300">
 
 ### Loss
-<img src="https://github.com/Abonia1/Seq2Seq-Chatbot/tree/master/Images/Loss2.JPG" alt="alt text" width="500" height="300">
+<img src="https://github.com/Abonia1/Seq2Seq-Chatbot/blob/master/Images/Loss2.jpg" alt="alt text" width="500" height="300">
 
 ### Chat Results
 ```
@@ -72,7 +72,7 @@ Human :really well
 Bot :goodbye
 ```
 Some Funny Result in web app
-<img src="https://github.com/Abonia1/Seq2Seq-Chatbot/tree/master/Images/Result.JPG" alt="alt text" width="850" height="500">
+<img src="https://github.com/Abonia1/Seq2Seq-Chatbot/blob/master/Images/Result.jpg" alt="alt text" width="850" height="500">
 
 
 
