@@ -3,6 +3,15 @@
 ## Introduction
 This Chatbot is a TensorFlow implementation of Seq2Seq Mode. It make use of a seq2seq model RNN for sentence predictions. The chatbot is trained on Cornell Movie Dialogs Corpus on Conversation of lenghth between 5 to 2 words
 
+## Publication
+
+With the given link below,you can find my paper on Seq2Seq AI Chatbot with Attention Mechanism
+
+Link: https://arxiv.org/abs/2006.02767
+
+arix identifier: 2006.02767
+License: http://arxiv.org/licenses/nonexclusive-distrib/1.0/
+
 ## Installation
 To run this chabtot you will need:
 * Python 3.5 
